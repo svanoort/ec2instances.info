@@ -1,2 +1,3 @@
 moremorestuffstuff more cheesefile2
-testin - cotg
+testin - cot
+run 3g
